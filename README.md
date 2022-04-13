@@ -8,6 +8,8 @@ J'ai accès actuellement à une bibliothède que +7000 références (je garde le
 
 ## La lecture rapide c'est quoi
 
+La lecture rapide c'est avant tout un challenge, une passion, et surtout du plaisir de lire beaucoup de livres
+
 ### Comment compter sa vitesse de lecture
 
 * Prendre un livre 
