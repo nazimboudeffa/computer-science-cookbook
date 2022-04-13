@@ -28,6 +28,10 @@ La vitesse de lecture de la petite voix qui est en nous est de 250 mots par minu
 
 Prendre des notes
 
+### Problèmes
+
+Dans les références informatique la pluspart du temps on lit sur un écran donc les techniques de repère (guide avec les doigts ou stylo) ne fonctionnement pas à part le fait de cacher le haut du document en avançant ce qui crée dans le cevreau la sensation de ne pas revenir sur le sujet
+
 ## Comment retenir
 
 * Avoir l'intention d'apprendre
