@@ -4,7 +4,7 @@ Dans ce petit manuel on va étudier la lecture rapide et l'appliquer à l'inform
 
 Je me suis récemment interessé à la lecture rapide via Mohamed Boclet (de la bande à Idriss Aberkane) et j'ai voulu applique leur techniques de mémorisation pour augmenter mes compétences en informatique
 
-J'ai accès actuellement à une bibliothède que +7000 références (je garde le lien secret) et j'aimerais être une références internationale sur le sujet du développement web et autres domaines de l'informatique
+J'ai accès actuellement à une bibliothède que +7000 références (je garde le lien secret mais je vais partager quelques réfs) et j'aimerais être une références internationale sur le sujet du développement web et autres domaines de l'informatique
 
 ## La lecture rapide c'est quoi
 
