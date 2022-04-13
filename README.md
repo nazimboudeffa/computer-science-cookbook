@@ -8,6 +8,8 @@ J'ai accès actuellement à une bibliothède que +7000 références (je garde le
 
 ## La lecture rapide c'est quoi
 
+### Comment compter sa vitesse de lecture
+
 * Prendre un livre 
 * Lire pendant 2min
 * Compter le nombre de mots dans une ligne
