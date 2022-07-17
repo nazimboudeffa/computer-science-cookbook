@@ -8,6 +8,10 @@ On dit programmation impérative car on dit à l'ordinateur fait ceci ou fait ce
 
 Git ça veut dire ringard à la base ou même con
 
+# Définir un problème
+
+D'une manière générale on sait pas comment trouver la solution à un problème, c'est ce que j'appelle le premier STRESS
+
 # Algorithmie
 
 Savoir décomposer un problème en sous problèmes (citer la section du livre de G. Polya, How to Solve It)
