@@ -7,3 +7,7 @@ On dit un langage de programmation parce que c'est le langage avec lequel on int
 On dit programmation impérative car on dit à l'ordinateur fait ceci ou fait cela
 
 Git ça veut dire ringard à la base ou même con
+
+# Algorithmie
+
+Savoir décomposer un problème en sous problèmes (citer la section du livre de G. Polya, How to Solve It)
