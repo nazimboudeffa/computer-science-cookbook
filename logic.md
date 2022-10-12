@@ -21,7 +21,7 @@ La proposition c'est N<10, vous allez voir c'est pas aussi évident que ça mais
 
 `3 < 4` est une proposition et sa valeur de vérité et V, on peut même le tester avec un interpréteur ça va marcher
 
-`(3 < 4) <=> (7+3 = 10)` est V et avec du code ça s'écrit `(3 < 4) == (7+3 == 10)`
+`(3 < 4) <=> (7+3 = 10)` est V et avec du code ça s'écrit `(3 < 4) == ((7+3) == 10)`
 
 ## Prédicat
 
