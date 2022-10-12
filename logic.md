@@ -4,7 +4,7 @@ Je vais pas redonner les bases de la logique mais quelques éléement essentiel 
 
 ## Proposition
 
-Un proposition est une assertion qui pour valeur de vérité V ou F
+Un proposition est une assertion qui pour valeur de vérité V ou F, on en fait des théorèmes, des lemmes, des corrolaires quand un résultat découle d'une suite d'opérations dans une preuve
 
 En informatique on désigne par proposition en général la partie évaluée dans un if ou dans une boucle, par exemple le code suivant
 
@@ -25,5 +25,5 @@ La proposition c'est N<10, vous allez voir c'est pas aussi évident que ça mais
 
 ## Prédicat
 
-Un prédicat qui dépend d'une variable par contre n'a aucune valeur de vérité que si on lui ajoute des quantificateurs
+Un prédicat qui dépend d'une variable par contre n'a aucune valeur de vérité que si on lui ajoute des quantificateurs, la variable devient liée
 
