@@ -1,4 +1,4 @@
-J'ai toujours voulu représenter ma théore aussi évidente qu'elle n'en a l'air qu'il existe forcèment une faille dans un système quel que soit le système est vraie mais c'est pas aussi évident que ça
+J'ai toujours voulu représenter ma théore aussi évidente qu'elle n'en a l'air qu'il existe forcèment une faille dans un système quel que soit le système est vraie mais c'est pas aussi évident que ça (vous inquiétez pas j'ai beaucoup de théories comme ça, c'est pas le plus important)
 Je vais pas redonner les bases de la logique mais quelques éléement essentiel qu'il faut toujours savoir
 
 ## Proposition
