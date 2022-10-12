@@ -1,3 +1,3 @@
 # CS CookBook
 
-[logique](logic.md)
+[CH1 : Logique](logic.md)
