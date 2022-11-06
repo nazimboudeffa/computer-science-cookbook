@@ -4,6 +4,8 @@ Ce n'est qu'en 2018 que j'ai finallement accepté de dire qu'une technologie est
 
 Faut dire que j'ai pris beaucoup de temps à analyser l'informatique et surtout j'avais pris 3 ans dans le projet PhaserJS à contribuer et qui m'a prouvé que les technologies changent constament même d'une version à une autre
 
+Mais je l'ai admis face au marché du travail, admis, rien de plus, donc je fais avec depuis ce temps
+
 ## soft skills
 
 https://www.linkedin.com/news/story/les-soft-skills-%C3%A0-mettre-en-avant-6066234/
